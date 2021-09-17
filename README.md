@@ -1,4 +1,7 @@
 # my-project
+<p align='center'>
+  <img src="./static/project.png" width="300px" />
+</p>
 
 ## 내배캠 1차 프로젝트
 
