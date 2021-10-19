@@ -2,10 +2,10 @@ name: backend
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-lates
 
     steps:
       - name: Checkout source code.
